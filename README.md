@@ -41,7 +41,7 @@ pip install requests pyttsx3
 
 2. **Run the chatbot:**
    ```bash
-   python chatbot.py
+   python local_chatbot.py
    ```
 
 3. **Chat with it!**
