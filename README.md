@@ -46,7 +46,7 @@ pip install requests pyttsx3
 
 3. **Chat with it!**
    ```
-   ----------------------------WELCOME TO MY CHATBOT----------------------------
+   ----------------------------MY LOCAL CHATBOT----------------------------
    YOU : hey there
    AI  : Hey! How’s it going?
    ```
